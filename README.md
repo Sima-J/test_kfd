@@ -27,9 +27,6 @@ Users should be able to:
 - Search the Donations.
 
 
-### Links
-
-- Live Site URL: [Click here](https://compassionate-bose-b7199a.netlify.app/)
 
 ## My process
 
