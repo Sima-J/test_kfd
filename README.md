@@ -58,13 +58,4 @@ If you find a bug (the website couldn't handle the query and / or gave undesired
 
 If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/Sima-J/KFD). Please include sample queries and their corresponding results.
 
-## Team
 
-- Developer - [Sima Jazaa Mohammed](https://github.com/Sima-J)
-- Developer - [Sana Jazaa Mohammed](https://github.com/Sana-JZ)
-- Developer - [Rebaz Farid Noori](https://github.com/rebaz36)
-- Developer - [Mudhafar Dler Rashad](https://github.com/jellywiz)
-
-## Acknowledgments
-
-This project was build for Appliction Development Course.
